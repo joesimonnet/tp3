@@ -1,18 +1,24 @@
 body{
+
+	background-color: #F8F8FF;
 	width: 80%;
 	margin:auto;
+	font-size: 1.3em;
 }
 
 h1{
 	text-transform: uppercase;
+	text-decoration: underline;
 	text-align: center;
-	margin: 50px 10px;
+	margin-bottom: 100px;
 }
 
 h2{
-	color: red;
-
+	color: white;
+	background-color: #0000FF;
+	padding-left: 10px;
 }
+
 ul{
 	list-style: none;
     position: relative;
@@ -36,3 +42,4 @@ li{
 p{
     background-color: rgba(33, 33, 33, 0.2);
 }
+
