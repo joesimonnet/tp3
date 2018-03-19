@@ -1,0 +1,19 @@
+body{
+    background-color: oldlace;
+    background-image: url("img/logo_auditum.png");
+    color: #333;
+    width: 800px;
+    margin: auto;
+}
+
+header{
+    background-color: rgba(33, 33, 33, 0.5);
+}
+
+li{
+    color:blue;
+}
+
+p{
+    background-color: rgba(33, 33, 33, 0.2);
+}
