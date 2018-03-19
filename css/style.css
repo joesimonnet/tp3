@@ -15,4 +15,24 @@ h2{
 }
 ul{
 	list-style: none;
+    position: relative;
+    top:150px;
+    background-color:  	#B2C2D2;
+    background-image: url("../img/logo_auditum.png");
+    background-repeat: no-repeat;
+    color: #333;
+    width: 800px;
+    margin: auto;
+}
+
+header{
+    background-color: rgba(33, 33, 33, 0.5);
+}
+
+li{
+    color:blue;
+}
+
+p{
+    background-color: rgba(33, 33, 33, 0.2);
 }
